@@ -1,4 +1,4 @@
-group 'io.mifos.template'
+group 'io.mifos.smsalert'
 version '0.1.0.BUILD-SNAPSHOT'
 
 ext.versions = [

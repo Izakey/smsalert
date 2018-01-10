@@ -1,6 +1,5 @@
-rootProject.name = 'template'
+rootProject.name = 'smsalert'
 
 includeBuild 'api'
 includeBuild 'service'
 includeBuild 'component-test'
-
