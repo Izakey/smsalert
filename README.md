@@ -21,4 +21,4 @@ The versioning layout is {MAJOR}.{MINOR}.{PATCH}-{INDICATOR}[.{PATCH}]. Only mil
 
 ## License
 See [LICENSE](LICENSE) file.
-# smsemail# smsalert
+# smsemail
